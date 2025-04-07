@@ -4,7 +4,7 @@ This project is an exploratory data analysis (EDA) of the `mxmh_survey_results.c
 
 ## Files
 
-- **Report.ipynb** — Jupyter Notebook containing all data cleaning, transformation, analysis, and visualizations.
+- **MusicandMentalHealthSurveyResults.ipynb** — Jupyter Notebook containing all data cleaning, transformation, analysis, and visualizations.
 - **Report.pdf** — Summary report including:
   - Overview of the dataset
   - Key insights from the statistical and correlation analysis
